@@ -1,15 +1,16 @@
 ﻿!app/public/wp-content
 
-/app/public/wp-content/* 
-!/app/public/wp-content/mu-plugins/
-!/app/public/wp-content/plugins/
-!/app/public/wp-content/themes/
+app/public/wp-content/* 
+!app/public/wp-content/mu-plugins/
+!app/public/wp-content/plugins/
+!app/public/wp-content/themes/
 
-/app/public/wp-content/plugins/hello.php
+app/public/wp-content/plugins/hello.php
 
-/app/public/wp-content/mu-plugins/nexcess-mapps.php
-/app/public/wp-content/mu-plugins/nexcess-mapps/*
+app/public/wp-content/mu-plugins/nexcess-mapps.php
+app/public/wp-content/mu-plugins/nexcess-mapps/*
 
-/app/public/wp-content/themes/twenty/*/
+app/public/wp-content/themes/twenty/*/
  
-/app/public/wp-admin
+app/public/wp-admin
+app/public/wp-content/themes
